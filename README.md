@@ -1,2 +1,2 @@
-# jayant_jain.github.io
+# jayantjain.github.io
 Personal Website
