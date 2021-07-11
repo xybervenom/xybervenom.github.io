@@ -57,7 +57,7 @@
       width: 250px;
       height: 250px;
       background-color: white;
-      background-image: url("../img/jayant-profile.JPG");
+      background-image: url("../img/jayant-profile.jpg");
       background-size: cover;
       background-blend-mode: luminosity;
       border-radius: 50%;
@@ -243,7 +243,7 @@ main {
     height: 25vh;
     transform: translate(100%, 0); }
     .menu-branding .portrait {
-      background-image: url("../img/jayant-profile.JPG");
+      background-image: url("../img/jayant-profile.jpg");
       width: 150px;
       height: 150px; }
   .about-info {
